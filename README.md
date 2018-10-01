@@ -1,1 +1,1 @@
-# A selection of Java text based card games based around a card object
+# A text based version of the card game hearts with an ai
