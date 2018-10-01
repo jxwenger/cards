@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ai()
+comment1.params=hand
+comment1.target=int\ aiPass(ObjCard[])
+comment10.params=hand\ suit
+comment10.target=int\ under8(ObjCard[],\ int)
+comment11.params=hand\ onTable\ trick\ ord
+comment11.target=int\ findGPcard(ObjCard[],\ ObjCard[],\ int,\ int)
+comment2.params=hand\ onTable\ trick\ ord\ h\ hnum
+comment2.target=int\ play(ObjCard[],\ ObjCard[],\ int,\ int,\ boolean,\ int)
+comment3.params=hand\ s
+comment3.target=int\ findGcard(ObjCard[],\ int)
+comment4.params=hand\ s
+comment4.target=int\ findLcard(ObjCard[],\ int)
+comment5.params=hand\ s\ v
+comment5.target=int\ findCard(ObjCard[],\ int,\ int)
+comment6.params=hand\ trick
+comment6.target=boolean\ hasSuit(ObjCard[],\ int)
+comment7.params=hand
+comment7.target=int\ findWcard(ObjCard[])
+comment8.params=played\ s\ v
+comment8.target=boolean\ Cplayed(ObjCard[],\ int,\ int)
+comment9.params=suit\ hand
+comment9.target=int\ suitnum(int,\ ObjCard[])
+numComments=12
